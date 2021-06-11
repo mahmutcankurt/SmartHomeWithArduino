@@ -29,6 +29,7 @@ In this project, HC-06 Arduino Bluetooth Module and Arduino Uno R3 development b
 **Here is my [Personal Website](https://mahmutcankurt.github.io)!..**<br>
 <br>
 **Here is [Android Studio Setup File](https://developer.android.com/studio)!..**<br>
+**Here is [Arduino IDE Setup File](https://www.arduino.cc/en/software)!..**<br>
 
 <img src="https://github.com/mahmutcankurt/SmartHomeWithArduino/blob/main/circuit_design.jpg"/><br>
 _Circuit Design of The Smart Home System_<br>
